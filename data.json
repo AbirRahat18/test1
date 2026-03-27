@@ -1,0 +1,362 @@
+  [
+  {
+    "id": 1,
+    "title": "NovaStream",
+    "companyName": "Nebula Soft",
+    "image": "../src/assets/demo-app (1).webp",
+    "description": "Stream your favorite movies and series in ultra-high definition with seamless buffering.",
+    "size": 45.2,
+    "reviews": 1250,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PixelEdit Pro",
+    "companyName": "Creative Labs",
+    "image": "../src/assets/demo-app (2).webp",
+    "description": "Professional-grade photo editing with AI-powered filters and retouching tools.",
+    "size": 120.5,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ZenSpace",
+    "companyName": "Mindful Tech",
+    "image": "../src/assets/demo-app (3).webp",
+    "description": "Guided meditation and sleep sounds to help you reduce stress and improve focus.",
+    "size": 32.8,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "FitTrack 360",
+    "companyName": "Health Metrics",
+    "image": "../src/assets/demo-app (4).webp",
+    "description": "Track your daily steps, calories burned, and heart rate with precision.",
+    "size": 55.0,
+    "reviews": 3400,
+    "ratingAvg": 4.6,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "CryptoWallet X",
+    "companyName": "SecureChain",
+    "image": "../src/assets/demo-app (5).webp",
+    "description": "Safe and secure storage for all your digital assets and cryptocurrencies.",
+    "size": 18.4,
+    "reviews": 560,
+    "ratingAvg": 3.9,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "SkyRace Nitro",
+    "companyName": "GamerX Studio",
+    "image": "../src/assets/demo-app (6).webp",
+    "description": "High-octane racing game featuring flying cars and futuristic tracks.",
+    "size": 450.0,
+    "reviews": 12000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "SwiftTask",
+    "companyName": "Productivity Hub",
+    "image": "../src/assets/demo-app (2).webp",
+    "description": "Organize your life with intelligent task lists and cloud synchronization.",
+    "size": 12.5,
+    "reviews": 430,
+    "ratingAvg": 4.1,
+    "downloads": 75000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "LingoMaster",
+    "companyName": "Polyglot Inc.",
+    "image": "../src/assets/demo-app (1).webp",
+    "description": "Learn 30+ languages with bite-sized lessons and interactive conversations.",
+    "size": 68.2,
+    "reviews": 5200,
+    "ratingAvg": 4.7,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "CookIt Up",
+    "companyName": "Recipe World",
+    "image": "../src/assets/demo-app (5).webp",
+    "description": "Discover thousands of recipes from world-renowned chefs with video guides.",
+    "size": 25.6,
+    "reviews": 310,
+    "ratingAvg": 4.3,
+    "downloads": 20000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "WeatherWatch",
+    "companyName": "Global Meteo",
+    "image": "../src/assets/demo-app (3).webp",
+    "description": "Hyper-local weather forecasts and real-time storm tracking alerts.",
+    "size": 15.1,
+    "reviews": 15000,
+    "ratingAvg": 4.0,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "NoteVault",
+    "companyName": "SecureWrite",
+    "image": "../src/assets/demo-app (5).webp",
+    "description": "An encrypted note-taking app with biometric lock and markdown support.",
+    "size": 9.4,
+    "reviews": 210,
+    "ratingAvg": 4.5,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 110 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "DreamScape RPG",
+    "companyName": "Fable Games",
+    "image": "../src/assets/demo-app (1).webp",
+    "description": "Explore an open-world fantasy realm with millions of other players online.",
+    "size": 1200.0,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12500 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ScanSnap",
+    "companyName": "Utility Apps Inc",
+    "image": "../src/assets/demo-app (4).webp",
+    "description": "Turn your phone into a high-quality PDF scanner with OCR capabilities.",
+    "size": 22.1,
+    "reviews": 780,
+    "ratingAvg": 4.1,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "MobiPay",
+    "companyName": "Fintech Solutions",
+    "image": "../src/assets/demo-app (6).webp",
+    "description": "Fast and secure mobile payments at thousands of merchants worldwide.",
+    "size": 14.8,
+    "reviews": 3200,
+    "ratingAvg": 4.4,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "TrailFinder",
+    "companyName": "Outdoor Adventures",
+    "image": "../src/assets/demo-app (2).webp",
+    "description": "Offline maps and GPS tracking for hikers, bikers, and outdoor enthusiasts.",
+    "size": 85.3,
+    "reviews": 650,
+    "ratingAvg": 4.7,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "StockMaster",
+    "companyName": "Market Insights",
+    "image": "../src/assets/demo-app (6).webp",
+    "description": "Real-time stock market data, news, and portfolio management.",
+    "size": 28.5,
+    "reviews": 1200,
+    "ratingAvg": 4.2,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "SleepWell",
+    "companyName": "BioHacking Apps",
+    "image": "../src/assets/demo-app (3).webp",
+    "description": "Analyze your sleep cycles and wake up feeling refreshed with smart alarms.",
+    "size": 39.7,
+    "reviews": 940,
+    "ratingAvg": 4.3,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 400 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "VideoCut",
+    "companyName": "Media Tools",
+    "image": "../src/assets/demo-app (1).webp",
+    "description": "Simple yet powerful video editor for social media creators.",
+    "size": 110.0,
+    "reviews": 5600,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "FocusTimer",
+    "companyName": "Zen Lab",
+    "image": "../src/assets/demo-app (5).webp",
+    "description": "Pomodoro timer that blocks distracting apps while you work.",
+    "size": 10.2,
+    "reviews": 110,
+    "ratingAvg": 4.0,
+    "downloads": 10000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 30 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "HomeDesign 3D",
+    "companyName": "Architech",
+    "image": "../src/assets/demo-app (4).webp",
+    "description": "Visualize your dream home in 3D with a massive catalog of furniture.",
+    "size": 350.5,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  }
+]
